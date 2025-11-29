@@ -1,11 +1,11 @@
-# 📘 Information Retrieval System (TF-IDF, BM25 & CLI Search Engine)
+# Information Retrieval System (TF-IDF, BM25 & CLI Search Engine)
 
 This repository contains a complete **Information Retrieval (IR) System** implemented for **Assignment 3** of Information Retrieval & Text Mining.
 The system supports **TF-IDF Vector Space Search**, **BM25 Ranking**, and a **Command-Line Interface (CLI)** to interactively retrieve relevant news articles.
 
 ---
 
-# 📚 Features
+# Features
 
 ### **Document Preprocessing**
 
